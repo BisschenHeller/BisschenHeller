@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BisschenHeller
 - 👀 I’m interested in Storytelling, Shader Programming and Power Metal
-- 🌱 I’m currently learning how to stay focused on my studies
+- 🌱 Not at all interested in your rant about PGDP ✨
 
 <!---
 BisschenHeller/BisschenHeller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
