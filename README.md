@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BisschenHeller
 - 👀 I’m interested in Storytelling, Shader Programming and Power Metal
-- 🌱 Not at all interested in your rant about PGDP ✨
+- 🌱 I normally respect other people's opinions but when I don't, it's about The Witcher Netflix adaptation
 
 <!---
 BisschenHeller/BisschenHeller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
