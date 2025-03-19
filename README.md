@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @BisschenHeller
-- 👀 I’m interested in Gameplay Programming, Shaders and Power Metal
-- 🌱 I normally respect other people's opinions. When I don't, it's about the netflix Witcher adaptation
+👋 Hi, I’m @BisschenHeller, I like Gameplay Programming, Shaders and Power Metal
+
+🤩 Top three best features in Games:
+ - Hotkey for outfit changes
+ - a u t o s a v e
+ - fun idle animations
+
+🥲 Top three pet peeves in Games:
+ - Point systems with an obvious greatest common divisor
+ - Plate armor deforming like rubber due to uneven bone weights
+ - Camera bops that move the crosshair
 
 <!---
 BisschenHeller/BisschenHeller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
