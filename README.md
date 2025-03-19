@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BisschenHeller
-- 👀 I’m interested in Storytelling, Shader Programming and Power Metal
+- 👀 I’m interested in Gameplay Programming, Shaders and Power Metal
 - 🌱 I normally respect other people's opinions. When I don't, it's about The Netflix Witcher adaptation
 
 <!---
