@@ -1,4 +1,6 @@
-👋 Hi, I’m @BisschenHeller, I like Power Metal, Climbing and Making Games!
+"Everything will be okay in the end. If it's not okay it's not the end."
+
+\*flips table\*
 
 <!---
 BisschenHeller/BisschenHeller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
